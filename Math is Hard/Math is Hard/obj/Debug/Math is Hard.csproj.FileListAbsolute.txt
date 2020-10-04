@@ -1,0 +1,19 @@
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\bin\Debug\Math is Hard.exe.config
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\bin\Debug\Math is Hard.exe
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\bin\Debug\Math is Hard.pdb
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.Factorial.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.MainMenu.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.exe
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.pdb
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.Fibonacci.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.Triangle.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.WordFrequency.resources
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\bin\Debug\Math is Hard.exe.manifest
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\bin\Debug\Math is Hard.application
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.exe.manifest
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math is Hard.application
+C:\Users\ASUS\source\repos\Math is Hard\Math is Hard\obj\Debug\Math_is_Hard.TicTacToe.resources
